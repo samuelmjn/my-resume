@@ -1,16 +1,26 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: CSuite
+  role: Backend side
+  duration: 6 months
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Platform made by ACN for BPR and Koperasi to mantain and monitor their collectability and credit supplies. Built with React Native on Frontend and Django on Backend
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Collaboreight 2018 & 2019 official site
+  role: Fullstack
+  duration: Aug 2018 & Aug 2019
+  url: "www.collaboreight.id"
+  description: Official site of Collaboreight SMA Negeri 8 Jakarta and ticket reservation monitoring platform for the comitees. The latest site supports automated payment using Moota payment API for effortless payment verification and an app build with React Native for ticket scanning. Built with Laravel and React Native
+  
+- project: Sayapinjam
+  role: Backend side
+  duration: 3 months
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Platform for BPR to mantain their lending profile and customer analytics. Built with Golang Echo
+  
+- project: Yesra Tools
+  role: Fullstack
+  duration: 2 months
+  # url: "#"
+  description: HR Analytics tool for PT. Yesra Soraion. Built with Django Python and VueJS
